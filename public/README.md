@@ -1,16 +1,6 @@
-## [Landwind - Tailwind CSS Landing Page](https://https://demo.themesberg.com/landwind/)
+## Blokiot.com
 
-<a href="https://https://demo.themesberg.com/landwind/" rel="Tailwind CSS Landing Page">![Tailwind CSS Landing Page Demo - Flowbite](https://themesberg.s3.us-east-2.amazonaws.com/public/github/landwind/thumbnail.png)</a>
-
-Landwind is a free and open-source landing page built for SaaS and product websites based on the Tailwind CSS utility-first framework and the Flowbite Component Library featuring a hero section, customer logos, feature sections, testimonials, pricing cards, FAQ section, pre-footer CTA button and a footer.
-
-Built with ❤️ by [Themesberg](https://themesberg.com) based on Tailwind CSS and Flowbite.
-
-## Live preview
-
-Check out a live demo by clicking here:
-
-🔗 [Landwind live preview](https://https://demo.themesberg.com/landwind/) (🌗 switch on dark mode using your computer preferences)
+## Starting an IoT project
 
 ## Getting started
 
@@ -44,7 +34,7 @@ This landing page was built using the following technologies:
 
 ## About us
 
-We build free and premium themes with technologies such as Bootstrap, React, Tailwind, Vue, Laravel and more over at [Themesberg](https://themesberg.com).
+Closing the gap between the phyical and digital world
 
 ## License
 
