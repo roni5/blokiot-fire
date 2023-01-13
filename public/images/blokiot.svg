@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="187.929 200.298 124.141 99.403" width="124.141" height="99.403" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <g transform="matrix(1, 0, 0, 1, -26.523804, -17.471981)">
+    <g id="layer1" transform="matrix(0.128304, 0.087607, -0.065463, 0.131063, 340.968964, 135.837067)" style="display: inline;">
+      <g id="g3848" transform="matrix(0.33539113,0.47128638,-0.47128638,0.33539113,121.53252,696.48469)" style="fill:#1b84db;fill-opacity:1;display:inline">
+        <path transform="matrix(0.69695424,0,0,0.69695424,107.01816,136.7659)" d="m 414.28571,396.64789 c 0,38.65993 -31.34007,70 -70,70 -38.65994,0 -70,-31.34007 -70,-70 0,-38.65993 31.34006,-70 70,-70 38.65993,0 70,31.34007 70,70 z" id="path3812" style="fill-opacity: 1; stroke: none; paint-order: stroke; fill: rgb(0, 0, 0); stroke-dashoffset: 3px;"/>
+        <path id="path3814" d="m 357.125,75.21875 c -88.70625,0 -167.24803,33.72297 -215.5,85.5625 l 40,61.65625 c 35.1157,-46.92077 100.54558,-78.46875 175.5,-78.46875 69.39712,0 130.63979,27.06257 167.21875,68.3125 L 565.8125,153.75 C 517.15423,105.90176 441.76173,75.21875 357.125,75.21875 z" style="fill-opacity: 1; stroke: none; paint-order: stroke; fill: rgb(0, 0, 0); stroke-dashoffset: 3px;"/>
+        <path id="path3822" d="m 350,229.5 c -50.45667,0 -96.51719,18.78113 -131.5625,49.6875 l 33.78125,52.09375 C 278.62505,309.04597 312.73394,295.625 350,295.625 c 34.98396,0 67.17684,11.81479 92.84375,31.65625 l 35.84375,-50.625 C 444.0107,247.23634 399.08938,229.5 350,229.5 z" style="fill-opacity: 1; stroke: none; paint-order: stroke; fill: rgb(0, 0, 0); stroke-dashoffset: 3px;"/>
+        <path style="fill-opacity: 1; stroke: none; paint-order: stroke; fill: rgb(0, 0, 0); stroke-dashoffset: 3px;" d="m 372.15625,138.25 c -116.58406,0 -221.30767,45.12743 -293.4375,116.8125 l 37.90625,58.40625 c 53.30072,-61.70409 147.01391,-102.6875 253.78125,-102.6875 105.94617,0 199.07205,40.33953 252.59375,101.25 L 664.3125,253.75 C 592.20544,182.82091 488.03965,138.25 372.15625,138.25 z" transform="translate(-16.162441,-216.17265)" id="path3824"/>
+      </g>
+    </g>
+    <rect x="153.991" y="219.59" width="53.159" height="46.354" style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255); stroke-linecap: square; stroke-width: 5px; stroke-dashoffset: 2px;" transform="matrix(-0.999917, -0.012845, 0.659865, -0.991606, 281.443726, 487.714569)"/>
+    <rect x="157.365" y="317.823" width="48.669" height="37.028" style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255); fill-rule: evenodd; fill-opacity: 0.98; paint-order: stroke; stroke-miterlimit: 9; stroke-width: 7px; stroke-dashoffset: 2px;" transform="matrix(1, 0, 0.754219, 1, -174.470108, -42.537613)"/>
+    <rect x="65.068" y="147.988" width="36.448" height="31.089" style="stroke: rgb(0, 0, 0); fill: rgb(49, 53, 69); stroke-dashoffset: 2px;" transform="matrix(0.999689, 0.024919, -0.647461, 0.984172, 283.536438, 81.036087)" bx:origin="1.704 2.086"/>
+  </g>
+</svg>
