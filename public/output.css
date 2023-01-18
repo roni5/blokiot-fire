@@ -2461,7 +2461,8 @@ input:checked + .toggle-bg {
   position: absolute;
   top: 100px;
   left: 100px;
-  animation: move 3s ease infinite;
+  animation: move 3s ease ;
+  animation-fill-mode: forwards;
 }
 
 @keyframes move {
@@ -2558,15 +2559,17 @@ input:checked + .toggle-bg {
  }
 ​img :hover {
   animation: animation-name 5s infinite;
-  transform: scale(1);
+  transform: perspective(1000px) rotateX(0deg) rotateY(0deg);
+  /* transform: scale(1); */
 }
 
 @keyframes animation {
   10% {
-    transform: scale(2);
+    transform: perspective(100px) rotateX(0deg) rotateY(0deg);
+    /* transform: scale(2); */
   }
 
-  20% {
+  30% {
     transform: scale(1);
   }
 }
