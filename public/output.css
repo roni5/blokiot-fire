@@ -2570,6 +2570,7 @@ input:checked + .toggle-bg {
 ​img :hover {
   animation: animation-name 5s infinite;
   transform: perspective(1000px) rotateX(0deg) rotateY(0deg);
+  transition: .8s ease-in-out;
   /* transform: scale(1); */
 }
 
@@ -2586,8 +2587,8 @@ input:checked + .toggle-bg {
 
 img:hover {
   /* Start the shake animation and make the animation last for 0.5 seconds */
-  animation: shake 0.5s;
-
+  animation: shake 0.9s;
+transition: .8s ease-in-out;  
   /* When the animation is finished, start again */
   animation-iteration-count: infinite;
 }
@@ -2595,7 +2596,7 @@ img:hover {
 @keyframes shake {
 
   10% {
-    transform: translate(-1px, -2px) rotate(-1deg);
+    transform: translate(-1px, 0px) rotate(-1deg);
   }
 
   /* 30% {
@@ -2611,7 +2612,7 @@ img:hover {
   } */
 
   80% {
-    transform: translate(-1px, -1px) rotate(1deg);
+    transform: translate( 0px, -1px) rotate(1deg);
   }
 
 }
@@ -2621,12 +2622,12 @@ img:hover {
 
   /* Set a specific height */
   min-height: 100%;
-
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   /* background-size: cover; */
+  transition: .8s ease-in-out;
 }
 
 a {
