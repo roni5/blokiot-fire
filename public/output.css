@@ -414,7 +414,7 @@ embed,
 object {
   display: block;
   /* 1 */
-  vertical-align: middle;
+  /* vertical-align: middle; */
   /* 2 */
 }
 
@@ -515,7 +515,7 @@ select {
      color-adjust: exact;
           print-color-adjust: exact;
   display: inline-block;
-  vertical-align: middle;
+  /* vertical-align: middle; */
   background-origin: border-box;
   -webkit-user-select: none;
      -moz-user-select: none;
