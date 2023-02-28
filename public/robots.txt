@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow: /admin/
+Disallow: /calendar/
+
+User-agent: *
+Allow: /
+
+Sitemap: http://blokiot.com/sitemap.xml

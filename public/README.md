@@ -4,7 +4,6 @@
 
 ## Getting started
 
-Make sure that you have [Node.js](https://nodejs.org/en/), [Blokiot CSS](https://Blokiotcss.com/docs/installation) and [Flowbite](https://flowbite.com/docs/getting-started/quickstart/) installed.
 
 1. Run `npm install` inside your terminal
 
@@ -29,8 +28,6 @@ We have also built a free Figma design file that you can duplicate from the comm
 This landing page was built using the following technologies:
 
 - 🔗 [Blokiot CSS](https://Blokiotcss.com/)
-- 🔗 [Flowbite Library](https://flowbite.com/docs/getting-started/introduction/)
-- 🔗 [Flowbite Blocks](https://flowbite.com/blocks/)
 
 ## About us
 
